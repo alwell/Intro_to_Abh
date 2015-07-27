@@ -1,7 +1,7 @@
 # Introduction to Abhidhamma
 
 - Author: Nina van Gorkom
-- Keywords: Abhidhamma; buddhism; theravada; theravada buddhism; beginner buddhism;
+- Keywords: Abhidhamma; buddhism; theravada; theravada buddhism
 - Publisher: Zolag
 - Year: 2011
 - Collection: opensource
